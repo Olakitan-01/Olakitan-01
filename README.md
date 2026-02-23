@@ -2,7 +2,7 @@
 
 I'm Olakitan from Nigeria 🇳🇬
 
-🔭 I am a full-stack developer with a strong focus on Backend Development with Python and Javascript
+🔭 I am a full-stack developer with a strong focus on Backend Development with Python and Javascript.
 👷 I build robust, scalable server-side applications with a focus on clean architecture and data integrity.
 
 I also have experience across several domains:
