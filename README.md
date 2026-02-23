@@ -1,16 +1,21 @@
-## Hi there 👋
+👩‍💻 About Me
 
-<!--
-**Olakitan-01/Olakitan-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Olakitan from Nigeria 🇳🇬
 
-Here are some ideas to get you started:
+🔭 I am a full-stack developer with a strong focus on Backend Development with Python and Javascript
+👷 I build robust, scalable server-side applications with a focus on clean architecture and data integrity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience across several domains:
+- 🕸 Web Application Development
+- 📲 API Development
+
+
+🛠️ Tech Stack
+Languages: Python, JavaScript, SQL
+
+Frameworks: Django, FastAPI, Node.js
+
+Databases: PostgreSQL, MySQL, MongoDB
+
+Tools: Git, REST APIs, Postman(API testing)
+
