@@ -13,7 +13,7 @@ I also have experience across several domains:
 🛠️ Tech Stack
 Languages: Python, JavaScript, SQL
 
-Frameworks: Django, FastAPI, Node.js
+Frameworks: Django, FastAPI, Node.js( express.js and nest.js), React.js, Vue.js
 
 Databases: PostgreSQL, MySQL, MongoDB
 
